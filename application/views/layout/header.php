@@ -9,7 +9,7 @@
     <meta name="description" content="" />
 
     <!-- gambar dari shutterstock-->
-    <link rel="icon" type="image/x-icon" href="https://www.shutterstock.com/image-vector/letter-f-curves-logo-vector-260nw-1021437535.jpg" />
+    <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTesOdH3rQe6ZKLobPwZnKn-FtyW9Oee9J0bw&s" />
 
     <!-- Fonts dari google -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
