@@ -1,6 +1,5 @@
 <?php
     $this->load->view('layout/header');
-    $this->load->view('layout/topbar');
 ?>
 
 <!-- Content wrapper -->
@@ -79,6 +78,5 @@
 <!-- Content wrapper -->
 
 <?php 
-    $this->load->view('layout/sidebar');
     $this->load->view('layout/footer');
 ?>
